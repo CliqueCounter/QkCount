@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/CliqueCounters/!svn/ver/174/QkCount/src/it/uniroma1/di/fff/Util
+END
+JoinTables.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/CliqueCounters/!svn/ver/127/QkCount/src/it/uniroma1/di/fff/Util/JoinTables.java
+END
+CommandCountCliques.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CliqueCounters/!svn/ver/174/QkCount/src/it/uniroma1/di/fff/Util/CommandCountCliques.java
+END
+ClockTimeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CliqueCounters/!svn/ver/164/QkCount/src/it/uniroma1/di/fff/Util/ClockTimeLogger.java
+END
+AdjListGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/CliqueCounters/!svn/ver/145/QkCount/src/it/uniroma1/di/fff/Util/AdjListGraph.java
+END
+AbstractCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/CliqueCounters/!svn/ver/166/QkCount/src/it/uniroma1/di/fff/Util/AbstractCommand.java
+END
+ParametersValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/CliqueCounters/!svn/ver/120/QkCount/src/it/uniroma1/di/fff/Util/ParametersValidator.java
+END
+CommandCountTriangles.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CliqueCounters/!svn/ver/174/QkCount/src/it/uniroma1/di/fff/Util/CommandCountTriangles.java
+END
+LPlusNGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/CliqueCounters/!svn/ver/160/QkCount/src/it/uniroma1/di/fff/Util/LPlusNGraph.java
+END
+CpuTimeLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CliqueCounters/!svn/ver/172/QkCount/src/it/uniroma1/di/fff/Util/CpuTimeLogger.java
+END
+CommandCountByJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CliqueCounters/!svn/ver/161/QkCount/src/it/uniroma1/di/fff/Util/CommandCountByJoin.java
+END
+DoubleChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/CliqueCounters/!svn/ver/120/QkCount/src/it/uniroma1/di/fff/Util/DoubleChecker.java
+END
+LPlusNGraphWithBuckets.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/CliqueCounters/!svn/ver/164/QkCount/src/it/uniroma1/di/fff/Util/LPlusNGraphWithBuckets.java
+END
+CommandComputeDegrees.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/CliqueCounters/!svn/ver/121/QkCount/src/it/uniroma1/di/fff/Util/CommandComputeDegrees.java
+END
+Checker.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/CliqueCounters/!svn/ver/120/QkCount/src/it/uniroma1/di/fff/Util/Checker.java
+END
+CliqueCounterGraph.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/CliqueCounters/!svn/ver/156/QkCount/src/it/uniroma1/di/fff/Util/CliqueCounterGraph.java
+END
