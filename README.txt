@@ -227,4 +227,4 @@ Command countByJoin applies the multiway join algorithm described in
 
 Example:
 	yarn jar QkCount.jar countByJoin -in=degrees -out=triangles -cliqueSize=4 
-			-workingDir=/dataset
+			-workingDir=/dataset -nBuckets=8
