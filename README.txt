@@ -21,7 +21,7 @@ Usage: yarn jar <program jar file> [options] [command] [command options]
 
 There are three main commands provided by our tool.
 
---------------------------------------computeDegrees--------------------------------------
+------------------------------------- computeDegrees -------------------------------------
 
 Command computeDegrees computes the degrees of each node and decorates the endpoints of
 each edge with their degrees.
@@ -82,7 +82,7 @@ countCliques and countTriangles, described below.
 Running times, if logged, are in nanoseconds.
 
 
----------------------------------------countCliques---------------------------------------
+-------------------------------------- countCliques --------------------------------------
 
 Command countCliques computes the number of cliques of size given by parameter cliqueSize.
 The cliqueSize must be at least 3. The execution becomes more computationally intensive 
@@ -142,7 +142,7 @@ E = approximation algorithm using simple edge sampling
 We refer to our paper for details on these algorithms.
 
 
---------------------------------------countTriangles--------------------------------------
+------------------------------------- countTriangles -------------------------------------
 
 Command countTriangles applies the algorithm NodeIterator++ described in 
 
@@ -187,7 +187,7 @@ Example:
 	yarn jar QkCount.jar countTriangles -in=degrees -out=triangles 
 			-workingDir=/dataset
 
-----------------------------------------countByJoin---------------------------------------
+--------------------------------------- countByJoin --------------------------------------
 Command countByJoin applies the multiway join algorithm described in
 
 
